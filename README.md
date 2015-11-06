@@ -12,5 +12,6 @@ Test d'utilisation de github
 ## Historique
 
 Mise à jour depuis Github
+Mais aussi depuis le local
 
 
